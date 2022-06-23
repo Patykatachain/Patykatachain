@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![PATYKATACHAIN](https://user-images.githubusercontent.com/105579713/175374541-930bc56a-833e-43d1-996b-994ec06faaf5.jpg)
 <!--
 **Patykatachain/Patykatachain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
