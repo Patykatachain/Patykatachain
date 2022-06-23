@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![PATYKATACHAIN](https://user-images.githubusercontent.com/105579713/175374541-930bc56a-833e-43d1-996b-994ec06faaf5.jpg)
 <!--
 **Patykatachain/Patykatachain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! my name is Patricia,
+
+Hello, my name is Patricia. Panamanian student in her last year of Systems and Computer Engineering.
+For me, technologies are means that we can use to reach our desired end.The technologies that I like as pillars are:
+
+1. Cloud
+2. Blockchain
+3. Internet of Things
+4. Artificial Intelligence
+5. Big Data
