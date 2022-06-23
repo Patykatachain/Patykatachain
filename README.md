@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! my name is Patricia,
-
-Hello, my name is Patricia. Panamanian student in her last year of Systems and Computer Engineering.
+###Hi! my name is Patricia.
+Panamanian student in her last year of Systems and Computer Engineering.
 For me, technologies are means that we can use to reach our desired end.The technologies that I like as pillars are:
 
 1. Cloud
